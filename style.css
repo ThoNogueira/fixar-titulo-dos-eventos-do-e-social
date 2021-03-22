@@ -1,0 +1,9 @@
+.sticky{
+	position: fixed;
+    top: 0;
+    width: 91.7%;
+    background-color: #363636;
+    color: #fff;
+    padding: 5px 0 5px 0;
+    font-size: 20px;
+}
